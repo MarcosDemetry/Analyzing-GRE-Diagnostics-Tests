@@ -25,3 +25,5 @@ In order to get the Kaplan data, I did the following per test:
 
 ## End result?
 This exercise helped me understand where my weaknesses lie, which topics I must get better at and how consistent I am. For example, understanding how ETS write the Proportions questions and how to answer them counts as low hanging fruit. It is much easier to improve one's results in Proportions or Data Interpretation by figuring out how they would like you to answer than to learn new concepts in Number Properties.
+
+** Yes, you're exactly right. This was very much a way to procrastinate from actually studying for the GRE.
