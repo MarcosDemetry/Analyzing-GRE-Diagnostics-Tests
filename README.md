@@ -21,5 +21,7 @@ In order to get the Kaplan data, I did the following per test:
 - Extract relevant info from OCR:ed PDF
 - Import to Pandas and take it from there
 
+** For copyright reasons, I am not publishing the screenshots of the questions or the questions themselves. This is just metadata.
+
 ## End result?
 This exercise helped me understand where my weaknesses lie, which topics I must get better at and how consistent I am. For example, understanding how ETS write the Proportions questions and how to answer them counts as low hanging fruit. It is much easier to improve one's results in Proportions or Data Interpretation by figuring out how they would like you to answer than to learn new concepts in Number Properties.
